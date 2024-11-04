@@ -7,18 +7,18 @@ This NPTEL Data science Domain consists of 3 Core and 3 Elective Courses.
 
 1	Python for Data Science	Prof. Ragunathan Rengasamy	IIT Madras	4 weeks
 
-   OR
+    OR
    
   Programming, Data Structures and Algorithms in Python	Prof. Madhavan Mukund	Chennai Mathematical Institute	8 weeks
 
 -------------------------------------------------------------------------------------------------------------------------------------
 2	Introduction to Data Analytics	Prof. Nandan Sudarsanam, Prof. Balaraman Ravindran	IIT Madras	8 weeks
 
-   OR
+    OR
    
   Data Science for Engineers	Prof. Ragunathan Rengasamy, Prof. Shankar Narasimhan	IIT Madras	8 weeks
   
-   OR
+    OR
   
   Data Analytics with Python	Prof. A. Ramesh	IIT Roorkee	12 weeks
 
@@ -26,7 +26,7 @@ This NPTEL Data science Domain consists of 3 Core and 3 Elective Courses.
 
 3	Introduction To Machine Learning - IITKGP	Prof. Sudeshna Sarkar	IIT Kharagpur	8 weeks
 
-   OR
+    OR
    
   Introduction to Machine Learning	Prof. Balaraman Ravindran	IIT Madras	12 weeks
 -----------------------------------------------------------------------------------------------------------------------------------------------
