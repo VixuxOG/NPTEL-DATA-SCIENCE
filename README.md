@@ -9,7 +9,7 @@ This NPTEL Data science Domain consists of 3 Core and 3 Elective Courses.
 
     OR
    
-  Programming, Data Structures and Algorithms in Python | Prof. Madhavan Mukund	Chennai Mathematical Institute	8 weeks
+  Programming, Data Structures and Algorithms in Python | Prof. Madhavan Mukund	| Chennai Mathematical Institute	8 weeks
 
 -------------------------------------------------------------------------------------------------------------------------------------
 2	Introduction to Data Analytics	| Prof. Nandan Sudarsanam, Prof. Balaraman Ravindran	| IIT Madras |	8 weeks
