@@ -3,7 +3,7 @@ Domain : Data Science (Minimum 60 Weeks)
 
 This NPTEL Data science Domain consists of 3 Core and 3 Elective Courses.
 
-#3 Core Courses - 
+# 3 Core Courses - 
 
 1	Python for Data Science	Prof. Ragunathan Rengasamy	IIT Madras	4 weeks
    OR
