@@ -1,102 +1,116 @@
-# NPTEL-DATA-SCIENCE
-Domain : Data Science (Minimum 60 Weeks)
+A structured learning path based on NPTEL's Data Science curriculum, designed to provide a comprehensive education in Data Science fundamentals and advanced concepts.
 
-This NPTEL Data science Domain consists of 3 Core and 3 Elective Courses.
+## 🎯 Domain Overview
 
-# 3 Core Courses - 
+This curriculum spans a minimum of 60 weeks and consists of:
+- 3 mandatory core courses
+- 3 elective courses from a pool of specialized topics
+- Courses from prestigious Indian institutions like IIT Madras, IIT Kharagpur, and others
 
-1	Python for Data Science	| Prof. Ragunathan Rengasamy	| IIT Madras	| 4 weeks
+## 📚 Core Courses
 
-    OR
-   
-  Programming, Data Structures and Algorithms in Python | Prof. Madhavan Mukund	| Chennai Mathematical Institute	8 weeks
-
--------------------------------------------------------------------------------------------------------------------------------------
-2	Introduction to Data Analytics	| Prof. Nandan Sudarsanam, Prof. Balaraman Ravindran	| IIT Madras |	8 weeks
-
-    OR
-   
-  Data Science for Engineers	| Prof. Ragunathan Rengasamy, Prof. Shankar Narasimhan	| IIT Madras	| 8 weeks
+### 1. Python Programming (Choose one)
+- **Python for Data Science** (4 weeks)
+  - Instructor: Prof. Ragunathan Rengasamy, IIT Madras
+  - Basic Python concepts focused on data science applications
   
-    OR
-  
-  Data Analytics with Python	| Prof. A. Ramesh	| IIT Roorkee	| 12 weeks
+- **Programming, Data Structures and Algorithms in Python** (8 weeks)
+  - Instructor: Prof. Madhavan Mukund, Chennai Mathematical Institute
+  - Comprehensive coverage of programming fundamentals and DSA
 
- --------------------------------------------------------------------------------------------------------------------------------------- 
+### 2. Data Analytics Foundation (Choose one)
+- **Introduction to Data Analytics** (8 weeks)
+  - Instructors: Prof. Nandan Sudarsanam, Prof. Balaraman Ravindran
+  - IIT Madras
 
-3	Introduction To Machine Learning - IITKGP	| Prof. Sudeshna Sarkar	| IIT Kharagpur |	8 weeks
+- **Data Science for Engineers** (8 weeks)
+  - Instructors: Prof. Ragunathan Rengasamy, Prof. Shankar Narasimhan
+  - IIT Madras
 
-    OR
-    
-   Introduction to Machine Learning	| Prof. Balaraman Ravindran	| IIT Madras |	12 weeks
-   
------------------------------------------------------------------------------------------------------------------------------------------------
+- **Data Analytics with Python** (12 weeks)
+  - Instructor: Prof. A. Ramesh
+  - IIT Roorkee
 
-# Any 3 Elective Courses - 
+### 3. Machine Learning Fundamentals (Choose one)
+- **Introduction to Machine Learning - IITKGP** (8 weeks)
+  - Instructor: Prof. Sudeshna Sarkar
+  - IIT Kharagpur
 
-1	Deep Learning	| Prof. Mitesh Khapra	| IIT Madras	| 12 weeks
+- **Introduction to Machine Learning - IITM** (12 weeks)
+  - Instructor: Prof. Balaraman Ravindran
+  - IIT Madras
 
-    OR
+## 🔍 Elective Courses
 
-Deep Learning	| Prof. Prabir Kumar Biswas	| IIT Kharagpur	| 12 weeks
+Choose any 3 from the following specialized tracks:
 
-    OR
+### Deep Learning Track
+1. **Deep Learning** (12 weeks)
+   - Prof. Mitesh Khapra, IIT Madras
+2. **Deep Learning for Computer Vision** (12 weeks)
+   - Prof. Vineeth N Balasubramanian, IIT Hyderabad
 
-Deep Learning for Computer Vision	| Prof. Vineeth N Balasubramanian	| IIT Hyderabad	| 12 weeks
+### AI and ML Track
+1. **Reinforcement Learning** (12 weeks)
+   - Prof. Balaraman Ravindran, IIT Madras
+2. **Artificial Intelligence Search Methods** (12 weeks)
+   - Prof. Deepak Khemani, IIT Madras
+3. **Knowledge Representation and Reasoning** (12 weeks)
+   - Prof. Deepak Khemani, IIT Madras
 
------------------------------------------------------------------------------------------------------------------------------------------------
+### Applied Data Science Track
+1. **Natural Language Processing** (12 weeks)
+   - Prof. Pawan Goyal, IIT Kharagpur
+2. **Computer Vision** (12 weeks)
+   - Prof. Jayanta Mukhopadhyay, IIT Kharagpur
+3. **Business Intelligence & Analytics** (12 weeks)
+   - Prof. Saji K Mathew, IIT Madras
 
-2	Reinforcement Learning	| Prof. Balaraman Ravindran |	IIT Madras	| 12 weeks
+### Mathematical Foundations Track
+1. **Probability for Computer Science** (8 weeks)
+   - Prof. Nitin Saxena, IIT Kanpur
+2. **Linear Programming and its Applications** (8 weeks)
+   - Prof. Rajat Mittal, IIT Kanpur
 
------------------------------------------------------------------------------------------------------------------------------------------------
+## 📊 Specialized Tools and Technologies
+- **Practical Machine Learning with Tensorflow** (8 weeks)
+- **Advanced R Programming for Data Analytics** (12 weeks)
+- **Learning Analytics Tools** (12 weeks)
 
-3	Artificial Intelligence Search Methods For Problem Solving	| Prof. Deepak Khemani	| IIT Madras	| 12 weeks
+## 🎓 Learning Path Structure
 
-    OR
+```mermaid
+graph TD
+    A[Start] --> B[Core Courses]
+    B --> C[Python Foundation]
+    B --> D[Data Analytics]
+    B --> E[Machine Learning]
+    F[Electives] --> G[Deep Learning Track]
+    F --> H[AI and ML Track]
+    F --> I[Applied DS Track]
+    F --> J[Math Foundations]
+```
 
-An Introduction to Artificial Intelligence	| Prof. Mausam	| IIT Delhi	| 12 weeks
+## 🔧 Prerequisites
+- Basic programming knowledge
+- Mathematics fundamentals (Statistics, Linear Algebra, Calculus)
+- Comfortable with Python programming language
 
------------------------------------------------------------------------------------------------------------------------------------------------
+## 📝 Assessment and Certification
+- Course-specific assignments and projects
+- Final examinations for each course
+- Certification upon successful completion of required courses
 
-4	Artificial Intelligence: Knowledge Representation and Reasoning	| Prof. Deepak Khemani	| IIT Madras	| 12 weeks
+## 🌐 Resources
+- NPTEL Course Portal: [https://nptel.ac.in/](https://nptel.ac.in/)
+- Support Email: support@nptel.iitm.ac.in
 
------------------------------------------------------------------------------------------------------------------------------------------------	
+## 📅 Important Notes
+- Courses are typically offered in Jul-Dec semester
+- Check NPTEL website for specific course schedules
+- Some courses may have prerequisites
+- Course availability may vary by semester
 
-5		Computer Vision	| Prof. Jayanta Mukhopadhyay	| IIT Kharagpur	| 12 weeks
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-6		Natural Language Processing	| Prof. Pawan Goyal	| IIT Kharagpur	| 12 weeks
-	
-	OR
- 
-Applied Natural Language Processing	| Prof. Ramaseshan R	| Chennai Mathematical Institute	| 12 weeks
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-7		Practical Machine Learning with Tensorflow	| Prof. Ashish Tendulkar Prof. B. Ravindran	| IIT Madras & Google	| 8 weeks
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-8		Learning Analytics Tools	| Prof. Ramkumar Rajendran	| IIT Bombay	| 12 weeks
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-9		Probability for Computer Science	| Prof. Nitin Saxena	| IIT Kanpur	| 8 weeks
-
------------------------------------------------------------------------------------------------------------------------------------------------	
-
-10		Linear programming and its applications to computer science | Prof. Rajat Mittal	| IIT Kanpur	| 8 weeks	
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-11		Games and Information	| Prof. Ankur A. Kulkarni	| IIT Bombay	| 12 weeks	
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-12		Business Intelligence & Analytics	| Prof. Saji K Mathew	| IIT Madras	| 12 weeks	
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-13		Advanced R Programming for Data Analytics in Business |	Prof. Abhinava Tripathi	| IIT Kanpur	| 12 weeks
-
+---
+*Last Updated: 2024*  
+*For the most current information, please refer to the official NPTEL website.*
