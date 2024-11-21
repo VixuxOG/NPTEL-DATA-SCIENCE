@@ -103,6 +103,7 @@ graph TD
 
 ## 🌐 Resources
 - NPTEL Course Portal: [https://nptel.ac.in/](https://nptel.ac.in/)
+- https://nptel.ac.in/domains/discipline/106?course=106_1
 - Support Email: support@nptel.iitm.ac.in
 
 ## 📅 Important Notes
